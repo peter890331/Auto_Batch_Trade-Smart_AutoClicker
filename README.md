@@ -1,4 +1,6 @@
 # Batch_Exchange-Smart_AutoClicker
+
+Batch_Exchange-Smart_AutoClicker, made by Peter Yu.
 > 一個在Pokémon GO中自動批量交換寶可夢的Smart AutoClicker腳本。    
 > A Smart AutoClicker script that automatically batch exchange pokémons in Pokémon GO.
 
@@ -36,3 +38,8 @@
 
 ## Make updates, For Developers or the future ?
 - 這個腳本是基於我的手機 (Pixel 7 Pro)所製作的，因各廠牌手機的螢幕解析度或螢幕大小不同，腳本可能會有不能正常運行的狀況，如有發生，可以自行修改腳本裡流程的Conditions或Actions，我在流程中都有打上各步驟的敘述，很好修改。
+
+---
+
+### ❗ 再次警告：僅以此練習腳本製作，在遊戲中請謹慎使用。 ❗    
+### ❗ WARNING AGAIN: Practice script only, please use with caution in the game. ❗
