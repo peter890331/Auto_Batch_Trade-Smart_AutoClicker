@@ -24,7 +24,7 @@ Batch_Exchange-Smart_AutoClicker, made by Peter Yu.
 [2]: https://github.com/Nain57/Smart-AutoClicker
 
 ## How to use, For users
-使用者在手機上安裝Smart AutoClicker後，可以直接下載 *雜物# 批量交換.zip* 的壓縮檔，再點選右上角資料夾圖示<img src= "https://github.com/peter890331/Batch_Exchange-Smart_AutoClicker/blob/figures/import.png" width="20px">進行Import backup，將 *雜物# 批量交換.zip* 匯入，之後即可使用腳本。    
+使用者在手機上安裝Smart AutoClicker後，可以直接下載 *雜物# 批量交換.zip* 的壓縮檔，再從Smart AutoClicker中點選右上角資料夾圖示<img src= "https://github.com/peter890331/Batch_Exchange-Smart_AutoClicker/blob/figures/import.png" width="20px">進行Import backup，將 *雜物# 批量交換.zip* 匯入，之後即可使用腳本。    
 <img src= "https://github.com/peter890331/Batch_Exchange-Smart_AutoClicker/blob/figures/import%20backup.png" width="200px">
 
 ### 使用步驟：
