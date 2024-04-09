@@ -37,7 +37,7 @@ Batch_Exchange-Smart_AutoClicker, made by Peter Yu.
 - 注意，在自動交換過程中，仍然建議時不時觀察是否有錯誤狀況發生。
 
 ## Make updates, For Developers or the future ?
-- 這個腳本是基於我的手機 (Pixel 7 Pro)所製作的，因各廠牌手機的螢幕解析度或螢幕大小不同，腳本可能會有不能正常運行的狀況，如有發生，可以自行修改腳本裡流程的Conditions或Actions，我在流程中都有打上各步驟的敘述，很好修改。
+這個腳本是基於我的手機 (Pixel 7 Pro)所製作的，因各廠牌手機的螢幕解析度或螢幕大小不同，腳本可能會有不能正常運行的狀況，如有發生，可以自行修改腳本裡流程的Conditions或Actions，我在流程中都有打上各步驟的敘述，很好修改。
 
 ---
 
