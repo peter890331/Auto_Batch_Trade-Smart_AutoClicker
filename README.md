@@ -32,7 +32,7 @@ Batch_Exchange-Smart_AutoClicker, made by Peter Yu.
      <img src= "https://github.com/peter890331/Batch_Exchange-Smart_AutoClicker/blob/figures/%E9%9B%9C%E7%89%A9%231.png" width="243px">    
      <img src= "https://github.com/peter890331/Batch_Exchange-Smart_AutoClicker/blob/figures/%E9%9B%9C%E7%89%A9%232.png" width="243px">
      <img src= "https://github.com/peter890331/Batch_Exchange-Smart_AutoClicker/blob/figures/%E5%AF%B6%E8%B2%9D%E9%BE%8D.png" width="245px">
-  2. 在Smart AutoClicker中運行 *雜物# 批量交換* 腳本，再切回到Pokémon Go中，但先不要開始，並稍微將腳本的開關標籤下移以免擋到交換按鈕。    
+  2. 在Smart AutoClicker中運行 *雜物# 批量交換* 腳本，再切回到Pokémon Go中，但先不要開始，並稍微將腳本的開關標籤下移以免擋到交換確定按鈕。    
      <img src= "https://github.com/peter890331/Batch_Exchange-Smart_AutoClicker/blob/figures/Smart%20AutoClicker.png" width="300px">
      <img src= "https://github.com/peter890331/Batch_Exchange-Smart_AutoClicker/blob/figures/Smart%20AutoClicker%20nonstart.png" height="155px">
   3. 與好友一起打開交換頁面，在寶可夢搜尋列打上 *雜物#*，這時會出現想要大量交換的寶可夢們供選擇。    
