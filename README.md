@@ -28,11 +28,14 @@ Batch_Exchange-Smart_AutoClicker, made by Peter Yu.
 <img src= "https://github.com/peter890331/Batch_Exchange-Smart_AutoClicker/blob/figures/import%20backup.png" width="200px">
 
 ### 使用步驟：
-  1. 在Pokémon Go中，將想要大量交換的寶可夢們加入 *雜物#* 標籤，井字號也是必須的。
-  2. 在Smart AutoClicker中運行 *雜物# 批量交換* 腳本，再切回到Pokémon Go中，但先不要開始，並稍微將腳本的開關標籤下移以免擋到交換按鈕。 
-  3. 與好友一起打開交換頁面，在寶可夢搜尋列打上 *雜物#*，這時會出現想要大量交換的寶可夢們供選擇。
-  4. 開始 *雜物# 批量交換* 腳本。
-  5. 享受腳本帶來的便利。
+  1. 在Pokémon Go中，將想要大量交換的寶可夢們加入 *雜物#* 標籤，井字號也是必須的。    
+     <img src= "https://github.com/peter890331/Batch_Exchange-Smart_AutoClicker/blob/figures/%E9%9B%9C%E7%89%A9%231.png" width="245px">    
+     <img src= "https://github.com/peter890331/Batch_Exchange-Smart_AutoClicker/blob/figures/%E9%9B%9C%E7%89%A9%232.png" width="245px">
+     <img src= "https://github.com/peter890331/Batch_Exchange-Smart_AutoClicker/blob/figures/%E9%9B%9C%E7%89%A9%233.png" width="245px">
+  3. 在Smart AutoClicker中運行 *雜物# 批量交換* 腳本，再切回到Pokémon Go中，但先不要開始，並稍微將腳本的開關標籤下移以免擋到交換按鈕。 
+  4. 與好友一起打開交換頁面，在寶可夢搜尋列打上 *雜物#*，這時會出現想要大量交換的寶可夢們供選擇。
+  5. 開始 *雜物# 批量交換* 腳本。
+  6. 享受腳本帶來的便利。
      
 - 注意，在自動交換過程中，仍然建議時不時觀察是否有錯誤狀況發生。
 
