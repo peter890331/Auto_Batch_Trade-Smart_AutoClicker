@@ -1,8 +1,8 @@
-# Batch_Exchange-Smart_AutoClicker
+# Auto_Trade-Smart_AutoClicker
 
-Batch_Exchange-Smart_AutoClicker, made by Peter Yu.
+Auto_Trade-Smart_AutoClicker, made by Peter Yu.
 > 一個在Pokémon GO中自動批量交換寶可夢的Smart AutoClicker腳本。    
-> A Smart AutoClicker script that automatically batch exchange pokémons in Pokémon GO.
+> A Smart AutoClicker script that auto trade pokémons in Pokémon GO.
 
 ### ❗ 警告：僅以此練習腳本製作，在遊戲中請謹慎使用。 ❗    
 ### ❗ WARNING: Practice script only, please use with caution in the game. ❗    
